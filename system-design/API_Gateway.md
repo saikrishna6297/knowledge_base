@@ -1,6 +1,4 @@
-Here’s a clean, simple, and README-friendly version of your notes with light structure, definitions, and formatting:
 
----
 
 # 🌐 API Gateway – Overview
 
